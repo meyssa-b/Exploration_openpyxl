@@ -17,3 +17,6 @@ Enfin, la passation du questionnaire étant auprès de 400 000 individus chaque 
 
 Le fichier ipynb du traitement est consultable sur ce repo.
 Source des données : https://www.cdc.gov/brfss/annual_data/annual_data.htm
+
+
+Note : Les fichiers 2018 et 2019 avaient été téléchargés séparément puis combinés à l'aide du logiciel R pour un projet antérieur. 
