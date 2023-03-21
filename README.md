@@ -15,4 +15,5 @@ Etant donné le nombre très important de colonnes du dataset initial (330 envir
 Enfin, la passation du questionnaire étant auprès de 400 000 individus chaque année, un échantillon de 50 000 personnes par année sera créé afin de limiter les temps de chargement. 
 
 
-Le fichier ipynb du traitement ainsi que le jeu de données brfss utilisé sont ainsi consultables sur ce repo.
+Le fichier ipynb du traitement est consultable sur ce repo.
+Source des données : https://www.cdc.gov/brfss/annual_data/annual_data.htm
